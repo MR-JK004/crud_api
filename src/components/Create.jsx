@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Button, Form } from 'react-bootstrap';
-import Feed from '../common/Feed';
 import AxiosService from '../utils/AxiosService'
 import ApiRoutes from '../utils/ApiRoutes'
 import toast from 'react-hot-toast';

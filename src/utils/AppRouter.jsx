@@ -1,6 +1,5 @@
 import React from 'react'
 import Create from '../components/Create'
-import Home from '../components/Home'
 import Dashboard from '../components/Dashboard'
 import TopBar from '../components/TopBar'
 import View from '../components/View'
